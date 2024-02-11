@@ -1,0 +1,1 @@
+R/C controller for imoca-60 Hugo Boss baset on Pi zero 2w
